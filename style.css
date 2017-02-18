@@ -1,0 +1,97 @@
+.body{
+	width: 100%;
+}
+.wrapper{
+	/*border: 2px solid red;*/
+	width: 100%;
+	position: relative;
+}
+.header{
+	position: absolute;
+	/*border: 2px solid red;*/
+}
+.header img{
+	height: 200%;
+	width: 260%;
+}
+.profile{
+	position: absolute;
+	/*border: 2px solid red;*/
+	width: 45%;
+	/*margin-left: 20px;*/
+	text-align: justify;
+	top: 461px;
+}
+.profile img{
+	width: 40%;
+}
+.contact{
+	position: absolute;
+	/*border: 2px solid red;*/
+	width: 45%;
+	/*margin-left: 20px;*/
+	top: 697px;
+}
+.contact img{
+	width: 40%;
+}
+.contact h4{
+	color: blue;
+	display: inline-block;
+}
+.skills{
+	position: absolute;
+	/*border: 2px solid red;*/
+	width: 45%;
+	margin-right: 20px; 
+	top: 1003px;
+}
+.skills img{
+	width: 70%;
+}
+.education{
+	position: absolute;
+	/*border: 2px solid red;*/
+	width: 45%;
+	margin-left: 602px;
+	margin-bottom: 60px;
+	font: 10px;
+}
+.education img{
+	width: 50%;
+}
+.education ul li{
+	list-style: circle;
+	color: #2655a5;
+	display: inline-block;
+}
+.education ul h4{
+	top: 20px;
+}
+.experience{
+	position: absolute;
+	/*border: 2px solid red;*/
+	margin-left: 602px;
+	top: 688px;
+}
+.experience img{
+	width: 50%;
+}
+.experience ul li{
+	list-style-type: circle;
+	color: #2655a5;
+	text: 20px;
+	display: inline-block;
+}
+.experience ul h4{
+	top: 20px;
+}
+.software{
+	position: absolute;
+	/*border: 2px solid red;*/
+	margin-left: 602px;
+	top: 1235px;
+}
+.software img{
+	width: 200%;
+}
